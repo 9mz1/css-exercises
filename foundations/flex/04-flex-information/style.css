@@ -24,3 +24,16 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+.title {
+  text-align: center;
+}
+
+.plants {
+  margin: 32px 0;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  gap: 52px;
+}
